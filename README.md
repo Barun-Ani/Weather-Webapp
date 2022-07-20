@@ -1,4 +1,4 @@
-# Weather Webapp
+# Weather Insights
 A weather app that allows you to search and display the weather conditions of any place in the world. It fetches the data from
 openweathermap.org API and displays the result using HTML,CSS and Vanilla.js.
 
